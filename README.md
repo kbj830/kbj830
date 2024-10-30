@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align=center><h3>Github Stats</h1>
+  
+  ![kbj830's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbj830&show_icons=true&theme=dracula)
+  
+</div>
+  
+<div align=center><h3>Lang Usage</h1>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbj830&layout=compact&theme=dracula)
+   
+</div>
 
-<!--
-**kbj830/kbj830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center><h3>Profile</h1>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kbj830)](https://solved.ac/kbj830)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
