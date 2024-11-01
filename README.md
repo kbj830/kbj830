@@ -30,15 +30,9 @@
 ***
 
 <div align=center><h3>📫 Contact</h3>
-  
-  <a href="https://www.instagram.com/kangbaekjun/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-c25beb.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5;" />
-  </a>
-  <a href="https://github.com/kbj830" target="_blank">
-  <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5;" />
-  </a>
-  <a href="mailto:kbj20040830@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-eb4646.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5;" />
-  </a>
+
+  [![Instagram Badge](https://img.shields.io/badge/instagram-c25beb.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kangbaekjun/)](https://www.instagram.com/kangbaekjun/)
+  [![Github Badge](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kbj830)](https://github.com/kbj830)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-d14836.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kbj20040830@gmail.com)](mailto:kbj20040830@gmail.com)
 
 </div>
