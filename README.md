@@ -1,6 +1,6 @@
 <div align=center><h3>📁 Github Stats</h3>
   
-  ![kbj830's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbj830&show_icons=true&theme=dracula)
+  ![kbj830's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbj830&show_icons=true&)
   
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align=center><h3>📊 Lang Usage</h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbj830&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbj830&)
    
    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,7 +23,7 @@
 
 <div align=center><h3>🏆 Profile</h3>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kbj830)](https://solved.ac/kbj830)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbj830)](https://solved.ac/kbj830)
 
 </div>
 
