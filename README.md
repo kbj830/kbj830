@@ -1,4 +1,4 @@
-# 🌍 Hello World! 🌟
+# 🌍 Hello World! 🌍
 
 ## 🎓 About Me
 - 👋 I'm Kang Baekjun.
