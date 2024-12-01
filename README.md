@@ -3,7 +3,7 @@
 ## 🎓 About Me
 - 👋 I'm Kang Baekjun.
 - 🏫 I'm in Pusan National University.
-- 📝 I like PS (Problem Solving).
+- 📝 I like Problem Solving.
 
 
 ## 💬 Languages
